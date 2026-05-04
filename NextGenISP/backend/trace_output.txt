@@ -1,0 +1,10 @@
+
+--- UPGRADE TEST START ---
+
+[Step 1] Upgrade API Response: {'message': 'Upgrade requested. Please pay the invoice of ₹500.00 to activate.', 'invoice_id': 18, 'amount_due': Decimal('500.00')}
+
+[Step 2] Payment API Response: {'transaction_id': [ErrorDetail(string='This field is required.', code='required')]}
+
+--- VERIFICATION ---
+Invoice Status: PENDING
+Subscription Plan: Fiber Starter

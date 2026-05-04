@@ -1,0 +1,8 @@
+{
+  "source_directories": [
+    "NextGenISP/backend"
+  ],
+  "search_path": [
+    "NextGenISP/backend/venv/Lib/site-packages"
+  ]
+}
